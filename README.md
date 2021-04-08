@@ -4,7 +4,13 @@
 - 👀 I’m interested in all things tech especially Javascript.
 - 📫 Reach me on twitter at @ShakyaPrasen or at kajiprasen@gmail.com
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?shakyaprasen" frameborder="0"></iframe>
+<a href="https://github.com/shakyaprasen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakyaprasen&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/sazanrjb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakyaprasen&show_icons=true&theme=dark&count_private=true&layout=compact&langs_count=10" />
+</a>
+
 
 <!---
 shakyaprasen/shakyaprasen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
