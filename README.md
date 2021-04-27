@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Prasen Shakya
 - 👀 I’m interested in all things tech especially Javascript.
-- 📫 Reach me on twitter at @ShakyaPrasen or at kajiprasen@gmail.com
+- 📫 Reach me out on twitter at @ShakyaPrasen or at kajiprasen@gmail.com
 
 <a href="https://github.com/shakyaprasen">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakyaprasen&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
