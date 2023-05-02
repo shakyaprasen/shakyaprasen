@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Prasen Shakya
 - 👀 I’m interested in all things tech especially Javascript.
 - 📫 Reach me out on twitter at @ShakyaPrasen or at kajiprasen@gmail.com
- ✨ Blog at https://www.prasenshakya.com.np/ ✨
+- ✨ Blog at https://www.prasenshakya.com.np/ ✨
 
 
 <!-- <a href="https://github.com/shakyaprasen">
